@@ -1,6 +1,6 @@
-# basic_layout_app
+# Diseño de paginas en flutter.
 
-A new Flutter project.
+![](https://i.imgur.com/wjHQ8O4.png)
 
 ## Getting Started
 
